@@ -9,3 +9,5 @@ miles=float(A)
 Gallons=float(B)
 D=miles*Gallons
 print(D)
+miles=float
+Gallons=float
